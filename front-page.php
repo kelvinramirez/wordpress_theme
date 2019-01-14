@@ -65,7 +65,7 @@ $args = array(
 
 
 
-                <a href="<?php the_permalink(); ?>" class="url_servicios">Ver más ></a>
+                <a href="<?php the_permalink(); ?>" class="url_servicios">Ver más >*</a>
 
 </div>
             </div>
